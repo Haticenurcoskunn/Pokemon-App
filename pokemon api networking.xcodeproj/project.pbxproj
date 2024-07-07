@@ -90,7 +90,7 @@
 		CB6957132C3847540038182E /* pokemon api networking */ = {
 			isa = PBXGroup;
 			children = (
-				CBDB22B72C3A67C300B82933 /* pokemonViewModel */,
+				CBDB22B82C3A78C700B82933 /* viewModel */,
 				CBDB22B12C3A622B00B82933 /* model */,
 				CB7B878C2C391FFA00E93786 /* view */,
 				CB6957142C3847540038182E /* pokemon_api_networkingApp.swift */,
@@ -124,12 +124,12 @@
 			path = model;
 			sourceTree = "<group>";
 		};
-		CBDB22B72C3A67C300B82933 /* pokemonViewModel */ = {
+		CBDB22B82C3A78C700B82933 /* viewModel */ = {
 			isa = PBXGroup;
 			children = (
 				CBDB22B42C3A62BA00B82933 /* ViewModel.swift */,
 			);
-			path = pokemonViewModel;
+			path = viewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
