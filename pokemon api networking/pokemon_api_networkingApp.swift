@@ -11,7 +11,7 @@ import SwiftUI
 struct pokemon_api_networkingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           PokemonView()
         }
     }
 }
